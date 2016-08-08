@@ -1,2 +1,2 @@
 # BaseAndroid
-Base classes for android development
+Android development articles
